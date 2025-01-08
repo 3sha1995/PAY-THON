@@ -88,7 +88,7 @@ if ($currentPeriod) {
             <div class="recent-activity">
                 <div class="activity-header">
                     <h2>Recent Activity</h2>
-                    <a href="activity_logs.php" class="view-more">
+                    <a href="../admin/admin_login_logs.php" class="view-more">
                         View All
                         <i class="fas fa-arrow-right"></i>
                     </a>

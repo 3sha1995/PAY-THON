@@ -544,14 +544,6 @@
     margin: 5px 0;
 }
 
-/* Logout Button */
-.logout-btn {
-    color: #dc3545 !important;
-}
-
-.logout-btn i {
-    color: #dc3545 !important;
-}
 
 /* Responsive Adjustments */
 @media (max-width: 768px) {

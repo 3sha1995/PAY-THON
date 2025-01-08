@@ -36,7 +36,6 @@
     background: rgba(255, 255, 255, 0.2);
     border-radius: 10px;
 }
-
 /* Logo Section */
 .sidebar .logo {
     display: flex;
@@ -584,14 +583,7 @@
     margin: 5px 0;
 }
 
-/* Logout Button */
-.logout-btn {
-    color: #dc3545 !important;
-}
 
-.logout-btn i {
-    color: #dc3545 !important;
-}
 
 /* Responsive Adjustments */
 @media (max-width: 768px) {

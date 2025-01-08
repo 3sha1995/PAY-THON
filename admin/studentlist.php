@@ -70,8 +70,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['deleteStudentId'])) {
         <div class="home-content">
             <!-- Student Table Section -->
             <div class="table-container">
-                <div class="table-header">
-                
+
                     <!-- Search Form -->
                     <div class="search-filter">
                         <form method="POST">
@@ -86,7 +85,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['deleteStudentId'])) {
                             <button type="submit" class="search-button">Search</button>
                         </form>
                     </div>
-                </div>
+              
 
                 <!-- Student Table -->
                 <table id="studentTable" class="custom-table">

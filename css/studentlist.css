@@ -21,6 +21,7 @@
     font-weight: 600;
 }
 
+
 /* Search Section */
 
 .search-filter {
@@ -120,12 +121,12 @@
 }
 
 .btn-delete {
-    background: #e74c3c;
+    background:  red;
     color: white;
 }
 
 .btn-delete:hover {
-    background: #c0392b;
+    background: darkred;
 }
 
 /* No Results Message */
@@ -252,7 +253,7 @@
 
 .status-badge.not-paid {
     background-color: #f8d7da;
-    color: #721c24;
+    color: red;
 }
 
 .status-badge.pending {
